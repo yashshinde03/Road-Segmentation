@@ -4,7 +4,7 @@ Road segmentation using fully convolutional networks is a technique used in comp
 
 # Index
 - [Prerequisites](#Prerequisites)
-- [Neural network architecture](#Neural-network-archtecture)
+- [Neural network architecture](#Neural-network-architecture)
 - [Some results](#Some-results)
 - [Setup](#Setup)
     - [Frameworks and Packages](#Frameworks-and-Packages)
