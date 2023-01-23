@@ -3,19 +3,18 @@
 Road segmentation using fully convolutional networks is a technique used in computer vision to locate and classify objects in an image. This technique uses convolutional neural networks (CNNs) to segment the image into different parts, such as roads, vehicles, and buildings. Fully convolutional networks are more computationally efficient compared to traditional methods and can handle large, high-resolution images. By utilizing this technique, it is possible to accurately detect and classify objects in an image in real-time.
 
 # Index
-- [Introduction](#Prerequisites)
+- [Prerequisites](#Prerequisites)
 - [Neural network architecture](#Neural-network-archtecture)
 - [Some results](#Some-results)
 - [Setup](#Setup)
     - [Frameworks and Packages](#Frameworks-and-Packages)
     - [Dataset](#Dataset)
 - [Start](#Start)
-    - [Usage](#Usage)
     - [google colabotory](#colab)
 
 - [Result](#Result)
 
-- [Future Scope](#Future Scope)
+- [Future Scope](#Future-Scope)
 
 ## Prerequisites
 ```
